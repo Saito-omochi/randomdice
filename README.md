@@ -24,7 +24,7 @@
 実行方法の例
 
 配置したディレクトリからターミナルを開いて起動する
-```python randomapp_uniqe.py```
+```python randomapp.py```
 
 または
 
